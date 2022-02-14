@@ -1,0 +1,4 @@
+---
+# install_emacs-nox/defaults/main.yml
+
+emacsnox_package: 'emacs-nox'
