@@ -1,5 +1,6 @@
 galaxy_info:
   role_name: 'install_emacs-nox'
+  namespace: 'johanneskastl'
   author: 'Johannes Kastl'
   description: 'Install emacs (without X11 dependencies, so the CLI-only version)'
   company: 'B1 Systems GmbH'
